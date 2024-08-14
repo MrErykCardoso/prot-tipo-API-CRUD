@@ -1,5 +1,4 @@
 import pg from 'pg'
-import 'dotenv/config'
 
 const {Client, Pool} = pg
 
